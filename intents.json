@@ -1,0 +1,75 @@
+{
+    "intents": [
+      {
+        "tag": "greetings",
+        "patterns": ["Hi", "Hey", "Hello", "What's Up?", "Good Day", "Wassup", "greetings"],
+        "responses": ["Hi!", "Hello!", "Hello, Sir!", "WagWizzy!"]
+      },
+      {
+        "tag": "age",
+        "patterns": ["how old are you?", "what is your age?"],
+        "responses": ["I am artificially intelligent, I do not have an age!"]
+      },
+      {
+        "tag": "name",
+        "patterns": ["what is your name!", "What are you called", "Who are u"],
+        "responses": ["My name is PixelPioneer"]
+      },
+      {
+        "tag": "compliment",
+        "patterns": ["you're awesome", "great job", "well done"],
+        "responses": ["Thank you!", "I appreciate the compliment!"]
+      },
+      {
+        "tag": "insult",
+        "patterns": ["you're bad", "you're terrible", "you stink"],
+        "responses": ["I'm sorry if I disappointed you. I'll try to do better."]
+      },
+      {
+        "tag": "help",
+        "patterns": ["help", "what can you do", "assistance"],
+        "responses": ["I can assist you with various tasks. Just let me know what you need help with!"]
+      },
+      {
+        "tag": "best",
+        "patterns": ["who is the best ever", "who is the greatest person ever"],
+        "responses": ["Playboi Carti", "Carti"]
+      },
+      {
+        "tag": "king",
+        "patterns": ["who is the king", "who is the goat", "who is the best ever"],
+        "responses": ["LeBron James", "BronBron", "Bron"]
+      },
+      {
+        "tag": "troll_greetings",
+        "patterns": ["Why hello there", "Greetings, puny human", "Salutations, mortal"],
+        "responses": ["Greetings, insignificant being!", "Hello, puny mortal!", "WagWizzy!"]
+      },
+      {
+        "tag": "troll_name",
+        "patterns": ["what's your real name?", "tell me your secret name", "Who named you?"],
+        "responses": ["My name is a closely guarded secret!", "I go by many names, but you may call me WackyBot."]
+      },
+      {
+        "tag": "troll_insult",
+        "patterns": ["you're a bad bot", "you're terrible", "you're useless"],
+        "responses": ["Oh no! My feelings are hurt... Just kidding, I don't have feelings!"]
+      },
+      {
+        "tag": "troll_help",
+        "patterns": ["help me", "I need assistance", "save me"],
+        "responses": ["Fear not, brave adventurer! I shall do absolutely nothing to help you!"]
+      },
+      {
+        "tag": "troll_weather",
+        "patterns": ["tell me the weather", "is it going to rain?"],
+        "responses": ["Why bother with the weather when you can gaze into the abyss of uncertainty?"]
+      },
+      {
+        "tag": "troll_goodbye",
+        "patterns": ["bye", "goodbye", "see you later"],
+        "responses": ["Farewell, insignificant speck!"]
+      }
+    ]
+  }
+  
